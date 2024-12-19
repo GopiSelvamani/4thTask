@@ -109,8 +109,6 @@ The data is stored in the browser's localStorage, which persists the user’s en
 
 The web application is deployed on Netlify. You can access the live version of the app by clicking on the following link:
 
-[Live Demo](https://your-app-name.netlify.app)
-
 To deploy on Netlify:
 
 1. Create a new site on Netlify.
